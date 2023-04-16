@@ -1,40 +1,49 @@
-*{
-    padding: 0;
-    margin: 0;
-
+* {
+  padding: 0;
+  margin: 0;
 }
-body
-{ 
-    font-family: 'Sacramento', cursive;
-
-}   
-.text
-{
-    width: 100%;
-    margin: 250px auto 2000px auto;
-    text-align: center;
+body {
+  font-family: "Sacramento", cursive;
+}
+.text {
+  width: 100%;
+  margin: 250px auto 2000px auto;
+  text-align: center;
 }
 
-.text h1
-{  
-    margin:0px auto 0 auto;
-    font-size: 1600%;
-    background-image: url(adrianna-geo-1rBg5YSi00c-unsplash.jpg);
-    background-size: cover;
-    background-position: center;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
+.text h1 {
+  margin: 0px auto 0 auto;
+  font-size: 1600%;
+  background-image: url(adrianna-geo-1rBg5YSi00c-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 
-.text h4
-{  
-    margin: -100px auto 0 1100px;
-    font-size: 100%;
-    background-image: url(adrianna-geo-1rBg5YSi00c-unsplash.jpg);
-    background-size: cover;
-    background-position: center;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
+.text h4 {
+  margin: -100px auto 0 1100px;
+  font-size: 100%;
+  background-image: url(adrianna-geo-1rBg5YSi00c-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }
+
+/* body {
+  background-image: url("adrianna-geo-1rBg5YSi00c-unsplash.jpg");
+  background-size: cover;
+}
+
+.content {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0
+  );
+  color: rgba(223, 3, 3, 0); 
+} */
